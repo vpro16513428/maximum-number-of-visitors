@@ -1,3 +1,3 @@
 # maximum-number-of-visitors
 java
-![Console result](/images/console.png)
+![Console result](/img/console.png)
